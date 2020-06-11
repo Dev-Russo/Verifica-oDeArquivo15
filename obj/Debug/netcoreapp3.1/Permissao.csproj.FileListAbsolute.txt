@@ -1,0 +1,13 @@
+C:\Users\Murilo\Documents\Projetos\Permissao\obj\Debug\netcoreapp3.1\Permissao.csprojAssemblyReference.cache
+C:\Users\Murilo\Documents\Projetos\Permissao\obj\Debug\netcoreapp3.1\Permissao.csproj.CoreCompileInputs.cache
+C:\Users\Murilo\Documents\Projetos\Permissao\obj\Debug\netcoreapp3.1\Permissao.AssemblyInfoInputs.cache
+C:\Users\Murilo\Documents\Projetos\Permissao\obj\Debug\netcoreapp3.1\Permissao.AssemblyInfo.cs
+C:\Users\Murilo\Documents\Projetos\Permissao\bin\Debug\netcoreapp3.1\Permissao.exe
+C:\Users\Murilo\Documents\Projetos\Permissao\bin\Debug\netcoreapp3.1\Permissao.deps.json
+C:\Users\Murilo\Documents\Projetos\Permissao\bin\Debug\netcoreapp3.1\Permissao.runtimeconfig.json
+C:\Users\Murilo\Documents\Projetos\Permissao\bin\Debug\netcoreapp3.1\Permissao.runtimeconfig.dev.json
+C:\Users\Murilo\Documents\Projetos\Permissao\bin\Debug\netcoreapp3.1\Permissao.dll
+C:\Users\Murilo\Documents\Projetos\Permissao\bin\Debug\netcoreapp3.1\Permissao.pdb
+C:\Users\Murilo\Documents\Projetos\Permissao\obj\Debug\netcoreapp3.1\Permissao.dll
+C:\Users\Murilo\Documents\Projetos\Permissao\obj\Debug\netcoreapp3.1\Permissao.pdb
+C:\Users\Murilo\Documents\Projetos\Permissao\obj\Debug\netcoreapp3.1\Permissao.genruntimeconfig.cache
